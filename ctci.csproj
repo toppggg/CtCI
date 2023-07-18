@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>Egen_Github</RootNamespace>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>ctci</RootNamespace>
   </PropertyGroup>
 
 </Project>
