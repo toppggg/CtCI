@@ -100,4 +100,13 @@ public class LinkedList<T>
 
         return false;
     }
+
+    public void PrintList () {
+        LinkedListNode<T> node = Head;
+        while (node != null){
+            System.Console.Write(node.Data);
+            node = node.Next;
+        }
+        System.Console.WriteLine("");
+    }
 }

@@ -27,8 +27,11 @@ class Program
 
         //2.1
         Remove_dubs.Test();
-
         //2.2
         KthedLast.Test();
+        //2.3
+        DeleteSingleLinkedNode.Test();
+        //2.4
+        Partition.Test();
     }
 }
