@@ -33,5 +33,9 @@ class Program
         DeleteSingleLinkedNode.Test();
         //2.4
         Partition.Test();
+        //2.5
+        SumLists.Test();
+        //2.6
+        ListPalindrome.Test();
     }
 }
