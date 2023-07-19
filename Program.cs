@@ -37,5 +37,7 @@ class Program
         SumLists.Test();
         //2.6
         ListPalindrome.Test();
+        //2.7
+        ListIntersection.Test();
     }
 }

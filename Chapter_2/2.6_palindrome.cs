@@ -1,5 +1,4 @@
 namespace CtCI;
-using System;
 
 public static class ListPalindrome{
     public static bool Method(LinkedList<char> lst) {
