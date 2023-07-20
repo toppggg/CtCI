@@ -39,5 +39,7 @@ class Program
         ListPalindrome.Test();
         //2.7
         ListIntersection.Test();
+        //2.8
+        LoopDetection.Test();
     }
 }
